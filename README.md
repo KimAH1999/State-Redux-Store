@@ -3,7 +3,7 @@
 
 ## Description
 
-A global state using React's Context API.
+A global state using React's Context API. The understanding was to have the State Redux Store application to working propertly by solving the data/seed issue.
 
 ## Table of Contents 
 
