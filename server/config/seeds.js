@@ -1,3 +1,4 @@
+//seed section is like graphql when handleing data, but graphql is faster when recieveing and handling data
 const db = require('./connection');
 const { User, Product, Category } = require('../models');
 
